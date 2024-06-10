@@ -5,4 +5,4 @@
 ```sh
 make
 sudo insmod hello.ko
-dmesg | tail```
+dmesg | tail
