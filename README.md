@@ -25,3 +25,12 @@ For example, to compile and install the code in `helloKernel_program`:
 cd helloKernel_program
 make
 sudo insmod hello.ko
+```
+
+### Features
+- Device registration and initialization
+- Basic kernel module development
+- Synchronization mechanisms (semaphores, spinlocks)
+- Communication with user-space via IOCTL
+- Usage of procfs and sysfs
+- Timing operations with jiffies
